@@ -20,4 +20,4 @@ You can download the item filter using amazing tool called [FilterBlade](https:/
 All you need is load a preset of SHOKI's item filter, save item filter locally or add it in your Path of Exile account, download custom sounds from this repository and add these sounds into Path of Exile's folder with your item filters (you can open this specific folder with your item filters from game options)
 
 ## Preset
-You can download load preset using this [link](https://www.filterblade.xyz/Profile?name=SH0KI&platform=pc). Sometimes link doesnot work by click so you should copy it manually using right mouse button and paste in new browser window.
+You can load preset using this [link](https://www.filterblade.xyz/Profile?name=SH0KI&platform=pc). Sometimes link does not work by click so you should copy it manually using right mouse button and paste in new browser window.
